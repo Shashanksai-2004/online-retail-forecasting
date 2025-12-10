@@ -60,27 +60,10 @@ ________________________________________
 📁 Tools & Technologies
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels, Prophet, LightGBM, Scikit-learn, SQL/SQLite, Power BI/Tableau, Git.
 ________________________________________
-🚀 How to Run the Project
-1. Clone the repository:
-git clone https://github.com/YourUsername/online-retail-forecasting.git
-2. Install dependencies:
-pip install -r requirements.txt
-3. Run the script:
-python Online_Retail.py
-________________________________________
 📌 Future Improvements
 •	Add hyperparameter tuning for LightGBM.
 •	Build a full Power BI dashboard.
 •	Implement LSTM/Neural forecasting models.
 •	Add automated pipeline using Airflow.
 ________________________________________
-👤 Author
-M. Sai Shashank
-Data Analyst | Python & SQL | Forecasting | EDA | ML
-LinkedIn: https://linkedin.com/in/sai-shashank-medam
-GitHub: https://github.com/Shashanksai-2004
-________________________________________
-If you want, I can also generate:
-✔ A professional project thumbnail banner
-✔ A more advanced README with GIF animations
-✔ A version specifically optimized for recruiters
+
